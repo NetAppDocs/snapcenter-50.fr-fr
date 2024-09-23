@@ -202,5 +202,3 @@ Le port est utilisé pour la communication entre l'hôte du serveur SnapCenter, 
 Vous devez disposer d'un utilisateur disposant de privilèges d'administrateur local avec des autorisations de connexion locales sur l'hôte distant. Si vous gérez des nœuds de cluster, vous devez disposer d'un utilisateur disposant des privilèges d'administration pour tous les nœuds du cluster.
 
 Vous devez disposer d'un utilisateur avec des autorisations sysadmin sur le serveur SQL. Le plug-in utilise la structure Microsoft VDI, qui requiert l'accès sysadmin.
-
-Si vous utilisez SnapManager pour Microsoft SQL Server et souhaitez importer des données de SnapManager pour Microsoft SQL Server vers SnapCenter, reportez-vous à la section link:../protect-scsql/concept_import_archived_backups_from_snapmanager_for_sql_to_snapcenter.html["Importer les sauvegardes archivées"^]

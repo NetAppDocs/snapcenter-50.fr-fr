@@ -82,7 +82,7 @@ indexpage:
   - title: Ressources supplémentaires
     links:
     - title: Guide de référence de l'applet de commande
-      url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2886895
+      url: https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html
     - title: Guide de référence sur les commandes
       url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896
     - title: Documentation relative aux versions antérieures de SnapCenter
