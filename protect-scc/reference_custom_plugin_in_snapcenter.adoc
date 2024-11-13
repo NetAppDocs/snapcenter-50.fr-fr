@@ -188,7 +188,7 @@ Pour plus d'informations sur les applets de commande PowerShell, utilisez l'aide
 
 
 
-https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmll["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
 
 
 

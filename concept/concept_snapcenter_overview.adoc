@@ -55,9 +55,6 @@ La protection des données est prise en charge pour Microsoft Exchange Server, M
 +
 La protection des données est également prise en charge pour d'autres applications et bases de données standard ou personnalisées grâce à une structure permettant de créer des plug-ins SnapCenter définis par l'utilisateur. La protection des données est ainsi assurée pour d'autres applications et bases de données depuis une seule fenêtre. En tirant parti de cette structure, NetApp a publié des plug-ins personnalisés SnapCenter pour IBM DB2, MongoDB, MySQL, etc. Sur le NetApp Automation Store.
 
-+
-https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"^]
-
 * Sauvegardes basées sur des règles
 +
 Les sauvegardes basées sur des règles utilisent la technologie Snapshot de NetApp pour créer des sauvegardes sur disque rapides, compactes et cohérentes au niveau des applications. Vous pouvez également automatiser la protection de ces sauvegardes sur un stockage secondaire par une mise à jour des relations de protection existantes.
@@ -86,7 +83,7 @@ SnapCenter inclut des API REST pour la plupart des fonctionnalités d'intégrati
 Pour plus d'informations sur les API REST, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter/sc-automation/overview_rest_apis.html["Présentation de l'API REST"].
 
 +
-Pour plus d'informations sur les applets de commande Windows, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmllllll["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+Pour plus d'informations sur les applets de commande Windows, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
 
 +
 Pour plus d'informations sur les commandes UNIX, voir https://library.netapp.com/ecm/ecm_download_file/ECMLP2886896["Guide de référence sur les commandes du logiciel SnapCenter"^].
@@ -177,9 +174,6 @@ SnapCenter se compose du serveur SnapCenter et des plug-ins SnapCenter. Vous dev
 
 
 * Plug-ins personnalisés SnapCenter
-+
-Les plug-ins personnalisés sont pris en charge par la communauté et peuvent être téléchargés à partir du https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"^].
-
 
 
 Le plug-in SnapCenter pour VMware vSphere, anciennement NetApp Data Broker, est une appliance virtuelle autonome prenant en charge les opérations de protection des données SnapCenter sur des bases de données et des systèmes de fichiers virtualisés.
@@ -286,7 +280,6 @@ Linux ou Windows
  a| 
 Plug-ins personnalisés
  a| 
-https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"^]
  a| 
 Pour les sauvegardes de système de fichiers, Plug-in pour Windows
  a| 
@@ -369,8 +362,6 @@ Les périphériques SAN natifs, les systèmes de fichiers et les dispositions LV
 * Prise en charge de la création de copies en miroir des jeux de sauvegarde sur un autre volume et de la réplication de sauvegarde disque à disque.
 * Prise en charge des environnements Windows et Linux. Dans les environnements Windows, les applications personnalisées via des plug-ins personnalisés peuvent, en option, utiliser le plug-in SnapCenter pour Microsoft Windows pour créer des sauvegardes cohérentes avec le système de fichiers.
 
-
-Des exemples de plug-in personnalisés MySQL, DB2 et MongoDB pour le logiciel SnapCenter peuvent être téléchargés à partir du https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"^].
 
 
 NOTE: Les plug-ins personnalisés MySQL, DB2 et MongoDB sont pris en charge uniquement par les communautés NetApp.

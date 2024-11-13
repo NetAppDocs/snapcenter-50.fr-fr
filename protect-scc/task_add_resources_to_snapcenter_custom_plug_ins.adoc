@@ -20,7 +20,7 @@ Vous devez ajouter les ressources à sauvegarder ou à cloner. Selon votre envir
 
 
 .Description de la tâche
-Vous pouvez également ajouter des ressources pour les applications MySQL et DB2. Ces plug-ins peuvent être téléchargés à partir du https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"].
+Vous pouvez également ajouter des ressources pour les applications MySQL et DB2.
 
 .Étapes
 . Dans le volet de navigation de gauche, sélectionnez *Ressources*, puis sélectionnez le plug-in approprié dans la liste.

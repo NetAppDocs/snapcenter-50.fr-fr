@@ -68,5 +68,5 @@ NOTE: Vous ne pouvez ni renommer, ni supprimer les sauvegardes qui se trouvent s
 
 NOTE: Vous ne pouvez pas renommer les sauvegardes qui se trouvent sur le système de stockage principal.
 
-. Si vous souhaitez supprimer un clone, sélectionnez-le dans le tableau et cliquez sur image:../media/delete_icon.gif[""] pour le supprimer.
+. Si vous souhaitez supprimer un clone, sélectionnez-le dans le tableau et cliquez sur image:../media/delete_icon.gif["icône supprimer"] pour le supprimer.
 

@@ -7,7 +7,7 @@ summary: Fournit des informations importantes sur cette version de SnapCenter Se
 = Notes de mise à jour
 :allow-uri-read: 
 :icons: font
-:imagesdir: ../media/
+:imagesdir: ./media/
 
 
 [role="lead"]

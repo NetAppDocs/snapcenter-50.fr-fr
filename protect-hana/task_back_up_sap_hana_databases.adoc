@@ -30,21 +30,21 @@ Les informations relatives aux paramètres pouvant être utilisés avec la cmdle
 
 * Pour les commandes PRE et post pour les opérations quiesce, Snapshot et unquiesce, vous devez vérifier que les commandes existent dans la liste de commandes disponible sur l'hôte plug-in à partir des chemins suivants :
 +
-Pour Windows : _C:\Program Files\NetApp\SnapCenter\SnapCenter\SnapCenter Plug-in Creator\etc\allowed_commands_list.txt_
-
+** Emplacement par défaut sur l'hôte Windows : _C:\Program Files\NetApp\SnapCenter\SnapCenter Plug-in Creator\etc\allowed_commands.config_
+** Emplacement par défaut sur l'hôte Linux : _/opt/NetApp/SnapCenter/scc/etc/allowed_commands.config_
 +
-Pour Linux : _/var/opt/snapcenter/scc/allowed_commands_list.txt_
-
-
-
 
 NOTE: Si les commandes n'existent pas dans la liste de commandes, l'opération échoue.
+
+
+
+
 
 .Étapes
 . Dans le volet de navigation de gauche, sélectionnez *Ressources*, puis sélectionnez le plug-in approprié dans la liste.
 . Dans la page ressource, filtrez les ressources de la liste déroulante *View* en fonction du type de ressource.
 +
-Sélectionnez * *image:../media/filter_icon.png[""], puis sélectionnez le nom d'hôte et le type de ressource pour filtrer les ressources. Vous pouvez ensuite choisir de image:../media/filter_icon.png[""] fermer le volet de filtre.
+Sélectionnez *image:../media/filter_icon.gif["icône de filtre"], puis sélectionnez le nom d'hôte et le type de ressource pour filtrer les ressources. Vous pouvez ensuite choisir de image:../media/filter_icon.gif["icône de filtre"] fermer le volet de filtre.
 
 . Sélectionnez la ressource à sauvegarder.
 . Dans la page ressource, sélectionnez *utiliser le format de nom personnalisé pour la copie Snapshot*, puis entrez un format de nom personnalisé que vous souhaitez utiliser pour le nom de l'instantané.
@@ -107,7 +107,7 @@ Sélectionnez *autre*, puis entrez la commande pour créer un instantané.
 
 |===
 +
-image:../media/application_settings.gif[""]
+image:../media/application_settings.gif["Capture d'écran des options de sauvegarde de groupe de cohérence : urgent, moyen ou détendu."]
 
 
 

@@ -278,7 +278,7 @@ Lors de la réplication secondaire, le délai d'expiration SnapLock charge le d�
 
 Si vous cliquez sur le bouton *Rafraîchir* de la page topologie, l'heure d'expiration SnapLock secondaire et primaire est actualisée à partir de ONTAP.
 
-Voir link:..protect-sce/task_view_exchange_backups_in_the_topology_page.html["Afficher les sauvegardes Exchange sur la page topologie"].
+Voir link:task_view_exchange_backups_in_the_topology_page.html["Afficher les sauvegardes Exchange sur la page topologie"].
  a| 
 Sélectionnez cette option pour conserver des copies en miroir des jeux de sauvegarde sur un autre volume (SnapMirror).
 

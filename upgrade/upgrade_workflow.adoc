@@ -15,7 +15,7 @@ Chaque version de SnapCenter contient un serveur SnapCenter et un pack de plug-i
 
 Le workflow montre les différentes tâches nécessaires à la mise à niveau du serveur SnapCenter et des modules de plug-in.
 
-image::../media/upgrade_workflow.png[mise à niveau du workflow]
+image::../media/upgrade_workflow.gif[workflow de mise à niveau de SnapCenter]
 
 
 

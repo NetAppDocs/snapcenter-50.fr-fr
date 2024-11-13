@@ -231,7 +231,7 @@ NOTE: La suppression manuelle d'une licence d'essai n'est nécessaire que si vou
 .. Exécutez l'applet de commande Open-SmConnection pour lancer une session de connexion avec le serveur SnapCenter pour un compte SnapCenterAdmin.
 .. Exécutez le mot de passe set-SmRepositoryPassword pour réinitialiser le mot de passe MySQL.
 +
-Pour plus d'informations sur les applets de commande, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.htmllll["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
+Pour plus d'informations sur les applets de commande, reportez-vous à la section https://docs.netapp.com/us-en/snapcenter-cmdlets-50/index.html["Guide de référence de l'applet de commande du logiciel SnapCenter"^].
 
 
 
