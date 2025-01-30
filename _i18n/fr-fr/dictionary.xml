@@ -5641,13 +5641,7 @@
   <block id="e3bcbd4b72b9abcfba6dd89fa833c9d7" category="list-text">Vous devez définir la valeur de délai d'exécution du pare-feu de l'application sur 3 heures ou plus.</block>
   <block id="2f66d67da390e5c77db3fc5e681393ab" category="list-text">Si vous utilisez des bases de données Oracle sur des environnements NFS, vous devez avoir configuré au moins une LIF de données NFS pour le stockage primaire ou secondaire afin d'effectuer des opérations de montage, de clonage, de vérification et de restauration.</block>
   <block id="904e44e9990e7591adda05fc061919d3" category="list-text">Si un SVM possède plusieurs chemins de données (LIF), SnapCenter choisit le chemin d'accès aux données (LIF) approprié pour le montage du volume cloné NFS. Toutefois, si vous souhaitez spécifier un chemin de données spécifique (LIF), vous devez exécuter l'interface de ligne de commande set-SvmPreferredDataPath. Le guide de référence des commandes contient plus d'informations.</block>
-  <block id="0d38af714784f793aaf023f367e4c39b" category="list-text">Si vous disposez de bases de données Oracle sur des environnements SAN, assurez-vous que l'environnement SAN est configuré selon les recommandations indiquées dans les guides suivants :</block>
-  <block id="26b193fe4fa8dbe180bbe20800729e6b" category="inline-link">Paramètres d'hôte recommandés pour les utilitaires d'hôtes unifiés Linux</block>
-  <block id="e705af1c7f38eac38e2f493fc039f70e" category="list-text"><block ref="e705af1c7f38eac38e2f493fc039f70e" category="inline-link-rx"></block></block>
-  <block id="e41304e7d689f8fed5c98620228184cf" category="inline-link">Utilisation d'hôtes Linux avec stockage ONTAP</block>
-  <block id="4261289fb5bad467a2ad973679d86c14" category="list-text"><block ref="4261289fb5bad467a2ad973679d86c14" category="inline-link-rx"></block></block>
   <block id="b1ada800560d7bd73c2da9a36d6ae229" category="inline-link">Paramètres d'hôte affectés par les utilitaires hôtes AIX</block>
-  <block id="9e202af09678a2aeb1c20235b8ed2aad" category="list-text"><block ref="9e202af09678a2aeb1c20235b8ed2aad" category="inline-link-rx"></block></block>
   <block id="ba09c94fed381b580a726fc94531b160" category="list-text">Si vous avez des bases de données Oracle sur LVM sous Oracle Linux ou RHEL, installez la dernière version de Logical Volume Management (LVM).</block>
   <block id="8770246977269a639c8c2818412dc3ac" category="list-text">Si vous utilisez SnapManager pour Oracle et que vous souhaitez migrer vers le plug-in SnapCenter pour Oracle Database, vous pouvez migrer les profils vers des stratégies et des groupes de ressources de SnapCenter à l'aide de la commande sccli sc-migrate.</block>
   <block id="4c893189fecc8b6e5c41ae931ffd7f89" category="list-text">Configurez les fonctionnalités SnapMirror et SnapVault sur ONTAP, si vous souhaitez effectuer une sauvegarde de réplication</block>
@@ -9014,4 +9008,5 @@
   <block id="a67e0e0c5dea92d024cd90ac412f110f" category="paragraph">Pour plus d'informations sur la désinstallation du plug-in SnapCenter pour VMware vSphere, consultez la page https://docs.NetApp.com/US-en/sc-plugin-vmware-vsphere/scivs44_remove_plugin.html[Supprimer le plug-in SnapCenter pour VMware vsphere^].</block>
   <block id="9370db25bd6766721eb2110afcff56b0" category="image-alt">workflow de mise à niveau de SnapCenter</block>
   <block id="d127c7070231e882bd97e8f2760d0a4f" category="sidebar">Documentation du logiciel SnapCenter</block>
+  <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">Si vous disposez de bases de données Oracle sur des environnements SAN, assurez-vous que l'environnement SAN est configuré conformément aux recommandations mentionnées dans<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>.</block>
 </blocks>
