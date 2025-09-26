@@ -7099,7 +7099,6 @@
   <block id="953acf14bebe77c11e648186f3957214" category="list-text">Vous devez disposer d'un utilisateur avec des autorisations sysadmin sur le serveur SQL.</block>
   <block id="d165009fc919b7c43f63036983c47ae0" category="paragraph">Le plug-in SnapCenter pour Microsoft SQL Server utilise l'infrastructure VDI Microsoft, qui requiert l'accès sysadmin.</block>
   <block id="9221af74572734362746f0af9104d884" category="inline-link">Article 2926557 du support Microsoft : les opérations de sauvegarde et de restauration VDI SQL Server nécessitent des privilèges sysadmin</block>
-  <block id="c081ea6f4c7f13224651487050d87831" category="paragraph"><block ref="c081ea6f4c7f13224651487050d87831" category="inline-link-rx"></block></block>
   <block id="9c9a08a242e9f6311be9fa5bd945d582" category="list-text">Si SnapManager pour Microsoft SQL Server est installé, vous devez avoir arrêté ou désactivé le service et les programmes.</block>
   <block id="1931c747684bb6010ac638ae2be606b3" category="paragraph">Si vous envisagez d'importer des tâches de sauvegarde ou de clonage dans SnapCenter, ne désinstallez pas SnapManager pour Microsoft SQL Server.</block>
   <block id="024ecfe0da835b1f362b5e64ec1408ab" category="list-text">L'hôte doit être résolu au nom de domaine complet (FQDN) du serveur.</block>
@@ -9009,4 +9008,5 @@
   <block id="90fd1a3ce44c78f7c0d4b87a3e5f6ad1" category="list-text">Si vous disposez de bases de données Oracle sur des environnements SAN, assurez-vous que l'environnement SAN est configuré conformément aux recommandations mentionnées dans<block ref="c4f7653512cf02eacb80aa4d3d06e4f7" category="inline-link-rx"></block>.</block>
   <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
   <block id="57cf9c4ee485623172a5c60cbee423a4" category="paragraph">Voir la <block ref="96716f545c5cf1a209bf10c1a798ce38" category="inline-link-macro-rx"></block> vidéo.</block>
+  <block id="2af0fc8c21c11cf5ed04e0063f53931e" category="paragraph"><block ref="2af0fc8c21c11cf5ed04e0063f53931e" category="inline-link-rx"></block></block>
 </blocks>
